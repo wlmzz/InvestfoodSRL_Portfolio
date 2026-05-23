@@ -210,7 +210,16 @@ Gestire più brand del food su decine di location significa coordinare POS, kios
 
 #### Integrazioni
 
-Delivery aggregator certificato · POS multi-tenant · Stripe (multi-tenant per location, calcolo IVA automatico) · Satispay · provider buoni pasto in split payment · Revolut Business · provider buoni pasto e carte di credito · provider delivery on-demand · Wix · Firebase (Auth, FCM, Crashlytics) · Resend · monitor social via RSS · Slack · MDM · VPN mesh
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Deliverect_Logo_Primary.svg/3840px-Deliverect_Logo_Primary.svg.png" height="28" alt="Deliverect"/>&nbsp;&nbsp;&nbsp;
+<img src="https://www.datocms-assets.com/165162/1753464414-glovo-on-demand-deliverect-logo.svg" height="28" alt="Glovo OnDemand"/>&nbsp;&nbsp;&nbsp;
+<img src="https://www.datocms-assets.com/133951/1720164277-group-1321316881.svg" height="24" alt="Satispay"/>&nbsp;&nbsp;&nbsp;
+<img src="https://1000logos.net/wp-content/uploads/2021/05/Stripe-logo.png" height="28" alt="Stripe"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/revolut/000000" height="24" alt="Revolut"/>&nbsp;&nbsp;&nbsp;
+<img src="https://voucherly.it/favicon.ico" height="24" alt="Voucherly"/>
+</p>
+
+Deliverect · POS multi-tenant · Stripe (multi-tenant per location, calcolo IVA automatico) · Satispay · Voucherly (buoni pasto e carte di credito) · Revolut Business · Glovo OnDemand · Wix · Firebase (Auth, FCM, Crashlytics) · Resend · monitor social via RSS · Slack · MDM · VPN mesh
 
 #### Sicurezza
 
@@ -600,7 +609,7 @@ POS system · delivery aggregator platforms (Deliveroo, Glovo, Uber Eats, JustEa
 <img src="https://cdn.simpleicons.org/android/3DDC84" height="22" alt="Android"/>&nbsp;
 <img src="https://cdn.simpleicons.org/postgresql/336791" height="22" alt="PostgreSQL"/>&nbsp;
 <img src="https://cdn.simpleicons.org/redis/DC382D" height="22" alt="Redis"/>&nbsp;
-<img src="https://cdn.simpleicons.org/stripe/635BFF" height="22" alt="Stripe"/>
+<img src="https://1000logos.net/wp-content/uploads/2021/05/Stripe-logo.png" height="22" alt="Stripe"/>
 </p>
 
 #### What it solves
@@ -664,7 +673,16 @@ Running multiple food brands across dozens of locations means orchestrating POS,
 
 #### Integrations
 
-Certified delivery aggregator · multi-tenant POS · Stripe (multi-tenant per-location, automatic tax) · Satispay · meal voucher providers with split payment · Revolut Business · meal voucher and credit card provider · on-demand delivery provider · Wix · Firebase (Auth, FCM, Crashlytics) · Resend · social monitoring via RSS · Slack · MDM · mesh VPN
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Deliverect_Logo_Primary.svg/3840px-Deliverect_Logo_Primary.svg.png" height="28" alt="Deliverect"/>&nbsp;&nbsp;&nbsp;
+<img src="https://www.datocms-assets.com/165162/1753464414-glovo-on-demand-deliverect-logo.svg" height="28" alt="Glovo OnDemand"/>&nbsp;&nbsp;&nbsp;
+<img src="https://www.datocms-assets.com/133951/1720164277-group-1321316881.svg" height="24" alt="Satispay"/>&nbsp;&nbsp;&nbsp;
+<img src="https://1000logos.net/wp-content/uploads/2021/05/Stripe-logo.png" height="28" alt="Stripe"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/revolut/000000" height="24" alt="Revolut"/>&nbsp;&nbsp;&nbsp;
+<img src="https://voucherly.it/favicon.ico" height="24" alt="Voucherly"/>
+</p>
+
+Deliverect · multi-tenant POS · Stripe (multi-tenant per-location, automatic tax) · Satispay · Voucherly (meal voucher and credit card provider) · Revolut Business · Glovo OnDemand · Wix · Firebase (Auth, FCM, Crashlytics) · Resend · social monitoring via RSS · Slack · MDM · mesh VPN
 
 #### Security
 
